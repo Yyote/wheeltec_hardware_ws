@@ -1,0 +1,16 @@
+<launch>
+
+  <node pkg="lslidar_m10_driver" type="lslidar_m10_driver_node" name="lslidar_m10_driver_node" output="screen">
+    <param name="frame_id" value="laser"/>
+    <param name="device_ip" value="192.168.1.200"/> 
+    <param name="device_port" value="2368"/>  
+    <param name="difop_ip" value="192.168.1.102"/>
+    <param name="difop_port" value="2369"/>
+  </node>
+
+    <node pkg="lslidar_m10_decoder" type="lslidar_m10_decoder_node" name="lslidar_m10_decoder_node" output="screen">
+    <param name="child_frame_id" value="laser"/>
+    <param name="scan_topic" value="scan"/>
+  </node>
+
+</launch>
