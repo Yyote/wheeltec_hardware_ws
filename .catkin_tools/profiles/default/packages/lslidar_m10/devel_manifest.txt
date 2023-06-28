@@ -1,2 +1,0 @@
-lslidar_m10/lslidar_m10
-/home/leesirius/aerobot_ws/devel/.private/lslidar_m10/cmake.lock /home/leesirius/aerobot_ws/devel/./cmake.lock

@@ -1,7 +1,0 @@
-lslidar_m10/lslidar_m10_driver
-/home/leesirius/aerobot_ws/devel/.private/lslidar_m10_driver/cmake.lock /home/leesirius/aerobot_ws/devel/./cmake.lock
-/home/leesirius/aerobot_ws/devel/.private/lslidar_m10_driver/share/lslidar_m10_driver/cmake/lslidar_m10_driverConfig.cmake /home/leesirius/aerobot_ws/devel/share/lslidar_m10_driver/cmake/lslidar_m10_driverConfig.cmake
-/home/leesirius/aerobot_ws/devel/.private/lslidar_m10_driver/share/lslidar_m10_driver/cmake/lslidar_m10_driverConfig-version.cmake /home/leesirius/aerobot_ws/devel/share/lslidar_m10_driver/cmake/lslidar_m10_driverConfig-version.cmake
-/home/leesirius/aerobot_ws/devel/.private/lslidar_m10_driver/lib/liblslidar_m10_driver.so /home/leesirius/aerobot_ws/devel/lib/liblslidar_m10_driver.so
-/home/leesirius/aerobot_ws/devel/.private/lslidar_m10_driver/lib/lslidar_m10_driver/lslidar_m10_driver_node /home/leesirius/aerobot_ws/devel/lib/lslidar_m10_driver/lslidar_m10_driver_node
-/home/leesirius/aerobot_ws/devel/.private/lslidar_m10_driver/lib/pkgconfig/lslidar_m10_driver.pc /home/leesirius/aerobot_ws/devel/lib/pkgconfig/lslidar_m10_driver.pc

@@ -1,6 +1,0 @@
-turn_on_wheeltec_robot
-/home/leesirius/aerobot_ws/devel/.private/turn_on_wheeltec_robot/cmake.lock /home/leesirius/aerobot_ws/devel/./cmake.lock
-/home/leesirius/aerobot_ws/devel/.private/turn_on_wheeltec_robot/share/turn_on_wheeltec_robot/cmake/turn_on_wheeltec_robotConfig-version.cmake /home/leesirius/aerobot_ws/devel/share/turn_on_wheeltec_robot/cmake/turn_on_wheeltec_robotConfig-version.cmake
-/home/leesirius/aerobot_ws/devel/.private/turn_on_wheeltec_robot/share/turn_on_wheeltec_robot/cmake/turn_on_wheeltec_robotConfig.cmake /home/leesirius/aerobot_ws/devel/share/turn_on_wheeltec_robot/cmake/turn_on_wheeltec_robotConfig.cmake
-/home/leesirius/aerobot_ws/devel/.private/turn_on_wheeltec_robot/lib/pkgconfig/turn_on_wheeltec_robot.pc /home/leesirius/aerobot_ws/devel/lib/pkgconfig/turn_on_wheeltec_robot.pc
-/home/leesirius/aerobot_ws/devel/.private/turn_on_wheeltec_robot/lib/turn_on_wheeltec_robot/wheeltec_robot_node /home/leesirius/aerobot_ws/devel/lib/turn_on_wheeltec_robot/wheeltec_robot_node
