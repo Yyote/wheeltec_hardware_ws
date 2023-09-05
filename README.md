@@ -27,7 +27,7 @@ cd ~
 
 Склонируйте и соберите воркспэйс с пакетами, необходимыми для лидара и камеры:
 ```shell
-git clone https://github.com/Yyote/aerobot_ws.git --recursive
+git clone https://github.com/Yyote/wheeltec_hardware_ws.git --recursive
 cd aerobot_ws
 rosdep install --from-paths src --ignore-src -r -y
 catkin_make
